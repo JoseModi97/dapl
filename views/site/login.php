@@ -31,5 +31,29 @@ $this->title = 'Login';
 
             <?php ActiveForm::end(); ?>
         </div>
+        <div class="col-lg-5">
+
+            <div style="color:#999;">
+                all passwords are <strong>password</strong> all users.<br>
+                <div>
+                    ou=mathematicians,dc=example,dc=com
+                    <ol>
+                        <li>riemann</li>
+                        <li>gauss</li>
+                        <li>euler</li>
+                        <li>euclid</li>
+                    </ol>
+                </div>
+                <div>
+                    ou=scientists,dc=example,dc=com
+                    <ol>
+                        <li>einstein</li>
+                        <li>newton</li>
+                        <li>galieleo</li>
+                        <li>tesla</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
